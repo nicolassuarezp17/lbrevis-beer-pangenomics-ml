@@ -1,0 +1,145 @@
+Genome ID,Genome Name,Species,Strain,Genome Status,Genome Quality,Isolation Source,Other Environmental,Contigs,Size,CheckM Contamination,CheckM Completeness,label_cervecero_estricto,label_final,label_justificacion,flag_low_completeness,flag_high_contamination,flag_review,name_key,dup_candidate,manual_exclusion,flag_keep_with_caution,missing_score,name_len,decision_final
+1580.278,Lactobacillus brevis strain ZLB004,Levilactobacillus brevis,ZLB004,Complete,Good,feces,env_biome:pig's feces,6,2655087,0.1,100.0,False,False,,False,False,False,zlb004,False,False,False,0,34,keep
+1580.1242,Levilactobacillus brevis D17,Levilactobacillus brevis,D17,Complete,Good,fermented grains of Chinese liquor making,,3,2371407,5.7,100.0,False,False,,False,False,False,d17,False,False,False,1,28,keep
+1580.473,Levilactobacillus brevis M10,Levilactobacillus brevis,M10,Complete,Good,soil,,4,2675649,0.24,99.29,False,False,,False,False,False,m10,False,False,False,1,28,keep
+1580.54,Levilactobacillus brevis 2-34,Levilactobacillus brevis,2-34,WGS,Good,milk,,86,2557496,2.2,100.0,False,False,,False,False,False,2-34,False,False,False,1,29,keep
+1580.588,Levilactobacillus brevis LZB2,Levilactobacillus brevis,LZB2,WGS,Good,Brewer's spent grain,,238,2529664,4.5,99.4,False,False,,False,False,False,lzb2,False,False,False,1,29,keep
+1580.589,Levilactobacillus brevis F4101,Levilactobacillus brevis,F4101,WGS,Good,vegetable,,135,2545772,0.3,100.0,False,False,,False,False,False,f4101,False,False,False,1,30,keep
+1580.58,Lactobacillus brevis strain 47f,Levilactobacillus brevis,47f,WGS,Good,Feces,,138,2621559,6.1,100.0,False,False,,False,False,False,47f,False,False,False,1,31,keep
+1580.476,Levilactobacillus brevis 3.8.25,Levilactobacillus brevis,3.8.25,WGS,Good,Cucumber fermentation tank,,173,2503685,0.47,99.29,False,False,,False,False,False,3.8.25,False,False,False,1,31,keep
+1580.474,Levilactobacillus brevis 7.2.12,Levilactobacillus brevis,7.2.12,WGS,Good,Cucumber fermentation tank,,199,2559005,0.47,99.29,False,False,,False,False,False,7.2.12,False,False,False,1,31,keep
+1580.478,Levilactobacillus brevis 7.2.13,Levilactobacillus brevis,7.2.13,WGS,Good,Cucumber fermentation tank,,213,2542145,0.47,99.29,False,False,,False,False,False,7.2.13,False,False,False,1,31,keep
+1580.477,Levilactobacillus brevis 7.2.40,Levilactobacillus brevis,7.2.40,WGS,Good,Cucumber fermentation tank,,178,2557347,0.47,99.29,False,False,,False,False,False,7.2.40,False,False,False,1,31,keep
+1580.475,Levilactobacillus brevis 7.2.41,Levilactobacillus brevis,7.2.41,WGS,Good,Cucumber fermentation tank,,168,2452927,0.47,99.29,False,False,,False,False,False,7.2.41,False,False,False,1,31,keep
+1580.48,Levilactobacillus brevis 7.2.49,Levilactobacillus brevis,7.2.49,WGS,Good,Cucumber fermentation tank,,159,2497582,0.47,99.29,False,False,,False,False,False,7.2.49,False,False,False,1,31,keep
+1580.481,Levilactobacillus brevis 7.8.33,Levilactobacillus brevis,7.8.33,WGS,Good,Cucumber fermentation tank,,161,2493341,0.47,99.29,False,False,,False,False,False,7.8.33,False,False,False,1,31,keep
+1580.482,Levilactobacillus brevis 7.8.34,Levilactobacillus brevis,7.8.34,WGS,Good,Cucumber fermentation tank,,177,2470436,0.47,99.29,False,False,,False,False,False,7.8.34,False,False,False,1,31,keep
+1580.479,Levilactobacillus brevis 7.8.43,Levilactobacillus brevis,7.8.43,WGS,Good,Cucumber fermentation tank,,174,2473125,0.47,99.29,False,False,,False,False,False,7.8.43,False,False,False,1,31,keep
+1580.534,Levilactobacillus brevis IM1470,Levilactobacillus brevis,IM1470,WGS,Good,sturter culture Sacco MBP,,121,2420854,0.3,100.0,False,False,,False,False,False,im1470,False,False,False,1,31,keep
+1580.771,Levilactobacillus brevis MKMB04,Levilactobacillus brevis,MKMB04,WGS,Good,Fermented milk,,171,2583913,0.3,100.0,False,False,,False,False,False,mkmb04,False,False,False,1,31,keep
+1580.59,Levilactobacillus brevis SMB091,Levilactobacillus brevis,SMB091,Complete,Good,fermented food,,10,2795880,0.6,100.0,False,False,,False,False,False,smb091,False,False,False,1,31,keep
+1580.124,Levilactobacillus brevis TCI988,Levilactobacillus brevis,TCI988,Complete,Good,tempeh,,2,2369486,0.3,100.0,False,False,,False,False,False,tci988,False,False,False,1,31,keep
+1580.484,Levilactobacillus brevis 30.2.29,Levilactobacillus brevis,30.2.29,WGS,Good,Cucumber fermentation tank,,211,2593201,0.7,99.29,False,False,,False,False,False,30.2.29,False,False,False,1,32,keep
+1580.483,Levilactobacillus brevis 30.8.38,Levilactobacillus brevis,30.8.38,WGS,Good,Cucumber fermentation tank,,192,2535605,0.47,99.29,False,False,,False,False,False,30.8.38,False,False,False,1,32,keep
+1580.529,Levilactobacillus brevis DRD-195,Levilactobacillus brevis,DRD-195,WGS,Good,artisanal Greek Kefalograviera cheese,,12,2252291,0.3,100.0,False,False,,False,False,False,drd-195,False,False,False,1,32,keep
+1580.742,Levilactobacillus brevis LMT1-73,Levilactobacillus brevis,LMT1-73,Complete,Good,oat silage sample,,2,2560148,0.3,100.0,False,False,,False,False,False,lmt1-73,False,False,False,1,32,keep
+1580.394,Lactobacillus brevis strain HQ1-1,Levilactobacillus brevis,HQ1-1,Complete,Good,Traditional dairy products,,8,2601702,0.24,99.29,False,False,,False,False,False,hq1-1,False,False,False,1,33,keep
+1580.168,Lactobacillus brevis strain SF15B,Levilactobacillus brevis,SF15B,WGS,Good,Brassica oleracea var. capitata cultivar Varazdinski,,119,2463153,6.1,100.0,False,False,,False,False,False,sf15b,False,False,False,1,33,keep
+1580.339,Lactobacillus brevis strain LB_AVK,Levilactobacillus brevis,LB_AVK,WGS,Good,dairy product,,37,2381065,2.53,99.29,False,False,,False,False,False,lb_avk,False,False,False,1,34,keep
+1580.772,Levilactobacillus brevis PYN10-6-2,Levilactobacillus brevis,PYN10-6-2,Complete,Good,Tenebrio Molitor feces,,5,2745725,0.6,100.0,False,False,,False,False,False,pyn10-6-2,False,False,False,1,34,keep
+1580.285,Lactobacillus brevis strain KMB_615,Levilactobacillus brevis,KMB_615,WGS,Good,bryndza cheese,env_biome:farm,122,2441695,,100.0,False,False,,False,False,False,kmb_615,False,False,False,1,35,keep
+1580.286,Lactobacillus brevis strain KMB_620,Levilactobacillus brevis,KMB_620,WGS,Good,bryndza cheese,env_biome:farm,92,2356510,,100.0,False,False,,False,False,False,kmb_620,False,False,False,1,35,keep
+1580.564,Levilactobacillus brevis SRCM210362,Levilactobacillus brevis,SRCM210362,Complete,Good,kimchi,,5,2628394,0.3,100.0,False,False,,False,False,False,srcm210362,False,False,False,1,35,keep
+1580.649,Levilactobacillus brevis SRCM217016,Levilactobacillus brevis,SRCM217016,WGS,Good,kimchi,,16,2750958,0.3,100.0,False,False,,False,False,False,srcm217016,False,False,False,1,35,keep
+1580.46,Levilactobacillus brevis strain 12991,Levilactobacillus brevis,12991,WGS,Good,feces,,42,2318552,0.47,98.58,False,False,,False,False,False,12991,False,False,False,1,37,keep
+1580.452,Levilactobacillus brevis strain LBX14,Levilactobacillus brevis,LBX14,WGS,Good,Human adult fecal sample,,31,2432315,3.42,99.05,False,False,,False,False,False,lbx14,False,False,False,1,37,keep
+1580.66,Lactobacillus brevis strain NPS-QW-145,Levilactobacillus brevis,NPS-QW-145,Complete,Good,Traditional Korean kimchi,env_biome:Traditional Korean kimchi,1,2552671,,100.0,False,False,,False,False,False,nps-qw-145,False,False,False,1,38,keep
+1580.57,Levilactobacillus brevis CIRM-BIA 2225,Levilactobacillus brevis,CIRM-BIA 2225,WGS,Good,starter bakery,,72,2370222,0.3,100.0,False,False,,False,False,False,cirm-bia 2225,True,False,False,1,38,keep
+1580.579,Levilactobacillus brevis CIRM-BIA 2226,Levilactobacillus brevis,CIRM-BIA 2226,WGS,Good,starter bakery,,181,2524587,2.8,100.0,False,False,,False,False,False,cirm-bia 2226,True,False,False,1,38,keep
+1580.575,Levilactobacillus brevis CIRM-BIA 2227,Levilactobacillus brevis,CIRM-BIA 2227,WGS,Good,fermented pickles,,256,2536016,3.9,100.0,False,False,,False,False,False,cirm-bia 2227,True,False,False,1,38,keep
+1580.574,Levilactobacillus brevis CIRM-BIA 2230,Levilactobacillus brevis,CIRM-BIA 2230,WGS,Good,artisanal sauerkraut,,332,2696677,3.1,100.0,False,False,,False,False,False,cirm-bia 2230,True,False,False,1,38,keep
+1580.573,Levilactobacillus brevis CIRM-BIA 2231,Levilactobacillus brevis,CIRM-BIA 2231,WGS,Good,artisanal sauerkraut,,277,2735779,0.6,100.0,False,False,,False,False,False,cirm-bia 2231,True,False,False,1,38,keep
+1580.321,Lactobacillus brevis strain MGYG-HGUT-02380,Levilactobacillus brevis,MGYG-HGUT-02380,WGS,Good,human gut,,138,2621559,1.4,99.29,False,False,,False,False,False,mgyg-hgut-02380,False,False,False,1,43,keep
+1350467.3,Lactobacillus brevis EW,Levilactobacillus brevis,EW,WGS,Good,Drosophila intestine,,38,2885101,,100.0,False,False,,False,False,False,ew,False,False,False,2,23,keep
+1384064.3,Lactobacillus brevis AG48,Levilactobacillus brevis,AG48,WGS,Good,sheep rumen,,9,2595994,,100.0,False,False,,False,False,False,ag48,False,False,False,2,25,keep
+1001583.3,Lactobacillus brevis KB290,Levilactobacillus brevis,KB290,Complete,Good,traditional Japanese fermented vegetable,,10,2587877,,100.0,False,False,,False,False,False,kb290,False,False,False,2,26,keep
+1580.1244,Levilactobacillus brevis H8,Levilactobacillus brevis,H8,Complete,Good,Korean beef,,1,2350541,,100.0,False,False,,False,False,False,h8,False,False,False,2,27,keep
+1580.51,Lactobacillus brevis TMW 1.6,Levilactobacillus brevis,TMW 1.6,WGS,Good,feces,,46,2520318,,100.0,False,False,,False,False,False,tmw 1.6,False,False,False,2,28,keep
+1580.568,Levilactobacillus brevis 994,Levilactobacillus brevis,994,WGS,Good,cheese smear,,64,2399471,,100.0,False,False,,False,False,False,994,True,False,False,2,28,keep
+1580.594,Levilactobacillus brevis MB1,Levilactobacillus brevis,MB1,WGS,Good,breast milk,,67,2452512,,100.0,False,False,,False,False,False,mb1,False,False,False,2,28,keep
+1580.593,Levilactobacillus brevis MB2,Levilactobacillus brevis,MB2,WGS,Good,breast milk,,68,2462442,,100.0,False,False,,False,False,False,mb2,False,False,False,2,28,keep
+1580.754,Levilactobacillus brevis P45,Levilactobacillus brevis,P45,WGS,Good,fermented whey,,104,2514044,,100.0,False,False,,False,False,False,p45,False,False,False,2,28,keep
+1580.5,Lactobacillus brevis DmCS_003,Levilactobacillus brevis,DmCS_003,WGS,Good,pure bacterial culture,,103,2864217,,100.0,False,False,,False,False,False,dmcs_003,False,False,False,2,29,keep
+1580.1243,Levilactobacillus brevis A156,Levilactobacillus brevis,A156,Complete,Good,fermented soybean food,,5,2377811,,100.0,False,False,,False,False,False,a156,False,False,False,2,29,keep
+1580.753,Levilactobacillus brevis A189,Levilactobacillus brevis,A189,WGS,Good,summer bryndza cheese from unpasteurized milk,,108,2427296,,100.0,False,False,,False,False,False,a189,False,False,False,2,29,keep
+1580.595,Levilactobacillus brevis MB13,Levilactobacillus brevis,MB13,WGS,Good,breast milk,,66,2443961,,100.0,False,False,,False,False,False,mb13,False,False,False,2,29,keep
+1580.592,Levilactobacillus brevis MB20,Levilactobacillus brevis,MB20,WGS,Good,breast milk,,69,2462783,,100.0,False,False,,False,False,False,mb20,False,False,False,2,29,keep
+1580.774,Levilactobacillus brevis QD-1,Levilactobacillus brevis,QD-1,WGS,Good,Kombucha,,82,2161925,,98.7,False,False,,False,False,False,qd-1,False,False,False,2,29,keep
+1580.488,Levilactobacillus brevis YSJ3,Levilactobacillus brevis,YSJ3,Complete,Good,Yeshanjun pickle,,8,2546891,,99.29,False,False,,False,False,False,ysj3,False,False,False,2,29,keep
+1580.64,Lactobacillus brevis strain D6,Levilactobacillus brevis,D6,WGS,Good,Cheese,,123,2591675,,100.0,False,False,,False,False,False,d6,False,False,False,2,30,keep
+1580.148,Lactobacillus brevis strain D7,Levilactobacillus brevis,D7,WGS,Good,kimchi,,6,2802160,,100.0,False,False,,False,False,False,d7,False,False,False,2,30,keep
+1580.112,Lactobacillus brevis strain EF,Levilactobacillus brevis,EF,WGS,Good,whole fly,,31,2863780,,100.0,False,False,,False,False,False,ef,False,False,False,2,30,keep
+1580.1219,Levilactobacillus brevis BD-LB,Levilactobacillus brevis,BD-LB,Complete,Good,intestinal structure,,1,2507364,,100.0,False,False,,False,False,False,bd-lb,False,False,False,2,30,keep
+1580.1215,Levilactobacillus brevis KL251,Levilactobacillus brevis,KL251,WGS,Good,kimchi,,52,2341662,,100.0,False,False,,False,False,False,kl251,False,False,False,2,30,keep
+1580.1241,Levilactobacillus brevis LAB 6,Levilactobacillus brevis,LAB 6,WGS,Good,ENVO:01001121,,153,2595856,,100.0,False,False,,False,False,False,lab 6,False,False,False,2,30,keep
+1580.667,Levilactobacillus brevis MRS-8,Levilactobacillus brevis,MRS-8,WGS,Good,Cheese with raw milk,,91,2533936,,100.0,False,False,,False,False,False,mrs-8,False,False,False,2,30,keep
+1580.666,Levilactobacillus brevis MRS-9,Levilactobacillus brevis,MRS-9,WGS,Good,Cheese with raw milk,,80,2472284,,100.0,False,False,,False,False,False,mrs-9,False,False,False,2,30,keep
+1580.565,Levilactobacillus brevis PL102,Levilactobacillus brevis,PL102,Complete,Good,vegetable fermented food,,6,2529578,,100.0,False,False,,False,False,False,pl102,True,False,False,2,30,keep
+1580.591,Levilactobacillus brevis SC013,Levilactobacillus brevis,SC013,Complete,Good,Chinese sauerkraut,,6,2618605,,100.0,False,False,,False,False,False,sc013,False,False,False,2,30,keep
+1580.1222,Levilactobacillus brevis YT108,Levilactobacillus brevis,YT108,WGS,Good,fecal sample of weaned rabbit,,49,2584672,,100.0,False,False,,False,False,False,yt108,False,False,False,2,30,keep
+649758.3,Lactobacillus brevis ATCC 14869,Levilactobacillus brevis,ATCC 14869,WGS,Good,gastrointestinal tract,,139,2467747,,100.0,False,False,,False,False,False,atcc 14869,False,False,False,2,31,keep
+1580.57,Lactobacillus brevis strain 15f,Levilactobacillus brevis,15f,WGS,Good,feces from a healthy adult female,,99,2435429,,100.0,False,False,,False,False,False,15f,False,False,False,2,31,keep
+1580.17,Lactobacillus brevis strain ZG1,Levilactobacillus brevis,ZG1,WGS,Good,Traditionally produced smoked fresh cheese,,14,2419201,,100.0,False,False,,False,False,False,zg1,False,False,False,2,31,keep
+1580.122,Levilactobacillus brevis CHEE98,Levilactobacillus brevis,CHEE98,Complete,Good,Gorgonzola cheese,,1,2776782,,100.0,False,False,,False,False,False,chee98,False,False,False,2,31,keep
+1580.526,Levilactobacillus brevis DRD-12,Levilactobacillus brevis,DRD-12,WGS,Good,artisanal Greek Feta cheese,,23,2478797,,100.0,False,False,,False,False,False,drd-12,False,False,False,2,31,keep
+1580.525,Levilactobacillus brevis DRD-35,Levilactobacillus brevis,DRD-35,WGS,Good,artisanal Greek Feta cheese,,19,2479458,,100.0,False,False,,False,False,False,drd-35,False,False,False,2,31,keep
+1580.527,Levilactobacillus brevis DRD-51,Levilactobacillus brevis,DRD-51,WGS,Good,artisanal Greek Kefalograviera cheese,,21,2479779,,100.0,False,False,,False,False,False,drd-51,False,False,False,2,31,keep
+1580.523,Levilactobacillus brevis DRD-52,Levilactobacillus brevis,DRD-52,WGS,Good,artisanal Greek Kefalograviera cheese,,22,2478758,,100.0,False,False,,False,False,False,drd-52,False,False,False,2,31,keep
+1580.524,Levilactobacillus brevis DRD-59,Levilactobacillus brevis,DRD-59,WGS,Good,artisanal Greek Kefalograviera cheese,,21,2479318,,100.0,False,False,,False,False,False,drd-59,False,False,False,2,31,keep
+1580.53,Levilactobacillus brevis DRD-60,Levilactobacillus brevis,DRD-60,WGS,Good,artisanal Greek Kefalograviera cheese,,22,2479012,,100.0,False,False,,False,False,False,drd-60,False,False,False,2,31,keep
+1580.536,Levilactobacillus brevis IM1293,Levilactobacillus brevis,IM1293,WGS,Good,traditional Slovenian cheese Mohant,,256,2698370,,100.0,False,False,,False,False,False,im1293,False,False,False,2,31,keep
+1580.537,Levilactobacillus brevis IM1297,Levilactobacillus brevis,IM1297,WGS,Good,goat milk,,55,2709382,,100.0,False,False,,False,False,False,im1297,False,False,False,2,31,keep
+1580.535,Levilactobacillus brevis IM1457,Levilactobacillus brevis,IM1457,WGS,Good,sturter culture Diostart,,29,2570360,,100.0,False,False,,False,False,False,im1457,False,False,False,2,31,keep
+1580.604,Levilactobacillus brevis LSF9-1,Levilactobacillus brevis,LSF9-1,WGS,Good,som fak,,100,2514936,,100.0,False,False,,False,False,False,lsf9-1,False,False,False,2,31,keep
+1580.77,Levilactobacillus brevis MKMB05,Levilactobacillus brevis,MKMB05,WGS,Good,Fermented milk,,157,2536054,,99.7,False,False,,False,False,False,mkmb05,False,False,False,2,31,keep
+1580.648,Levilactobacillus brevis TOM.66,Levilactobacillus brevis,TOM.66,WGS,Good,chegen,,52,2448966,,100.0,False,False,,False,False,False,tom.66,False,False,False,2,31,keep
+1580.113,Lactobacillus brevis strain G101,Levilactobacillus brevis,G101,WGS,Good,,,10,2736171,6.1,100.0,False,False,,False,False,False,g101,False,False,False,2,32,keep
+1580.169,Lactobacillus brevis strain SF9B,Levilactobacillus brevis,SF9B,WGS,Good,Brassica oleracea var. capitata cultivar Varazdinski,,74,2467947,,100.0,False,False,,False,False,False,sf9b,False,False,False,2,32,keep
+1580.533,Levilactobacillus brevis DRD-136,Levilactobacillus brevis,DRD-136,WGS,Good,raw sheep milk,,20,2455073,,100.0,False,False,,False,False,False,drd-136,False,False,False,2,32,keep
+1580.531,Levilactobacillus brevis DRD-139,Levilactobacillus brevis,DRD-139,WGS,Good,raw sheep milk,,21,2479479,,100.0,False,False,,False,False,False,drd-139,False,False,False,2,32,keep
+1580.532,Levilactobacillus brevis DRD-198,Levilactobacillus brevis,DRD-198,WGS,Good,artisanal Greek Kefalograviera cheese,,20,2479725,,100.0,False,False,,False,False,False,drd-198,False,False,False,2,32,keep
+1580.528,Levilactobacillus brevis DRD-201,Levilactobacillus brevis,DRD-201,WGS,Good,artisanal Greek Kefalograviera cheese,,21,2478849,,100.0,False,False,,False,False,False,drd-201,False,False,False,2,32,keep
+1580.1287,Levilactobacillus brevis DY55bre,Levilactobacillus brevis,DY55bre,Complete,Good,Lactic acid fermented beverage(shalgam),,2,2708612,,100.0,False,False,,False,False,False,dy55bre,False,False,False,2,32,keep
+1580.1286,Levilactobacillus brevis LBH1068,Levilactobacillus brevis,LBH1068,WGS,Good,Pulque,,29,2645277,,100.0,False,False,,False,False,False,lbh1068,False,False,False,2,32,keep
+1580.65,Levilactobacillus brevis TOM.290,Levilactobacillus brevis,TOM.290,WGS,Good,cheese starter,,53,2449128,,100.0,False,False,,False,False,False,tom.290,False,False,False,2,32,keep
+1580.121,Lactobacillus brevis strain 100D8,Levilactobacillus brevis,100D8,Complete,Good,rye silage,,4,2477732,,100.0,False,False,,False,False,False,100d8,False,False,False,2,33,keep
+1580.128,Lactobacillus brevis strain 3M004,Levilactobacillus brevis,3M004,WGS,Good,feed to animal,,29,2459326,,100.0,False,False,,False,False,False,3m004,False,False,False,2,33,keep
+1580.171,Lactobacillus brevis strain BDGP6,Levilactobacillus brevis,BDGP6,Complete,Good,female gut,,1,2785111,,100.0,False,False,,False,False,False,bdgp6,False,False,False,2,33,keep
+1580.241,Lactobacillus brevis strain DS1_5,Levilactobacillus brevis,DS1_5,WGS,Good,Commercial dietary supplements,,90,2242019,,100.0,False,False,,False,False,False,ds1_5,False,False,False,2,33,keep
+1580.316,Lactobacillus brevis strain TR052,Levilactobacillus brevis,TR052,WGS,Good,sourdough,,56,2569807,,99.29,False,False,,False,False,False,tr052,False,False,False,2,33,keep
+1580.317,Lactobacillus brevis strain TR055,Levilactobacillus brevis,TR055,WGS,Good,sourdough,,28,2477403,,99.29,False,False,,False,False,False,tr055,False,False,False,2,33,keep
+1580.315,Lactobacillus brevis strain TR169,Levilactobacillus brevis,TR169,WGS,Good,sourdough,,57,2391870,,99.29,False,False,,False,False,False,tr169,False,False,False,2,33,keep
+1580.606,Levilactobacillus brevis AF10-19C,Levilactobacillus brevis,AF10-19C,WGS,Good,fecal material [ENVO:00002003],,53,2659498,,100.0,False,False,,False,False,False,af10-19c,False,False,False,2,33,keep
+1580.613,Levilactobacillus brevis AM87-02A,Levilactobacillus brevis,AM87-02A,WGS,Good,fecal material [ENVO:00002003],,66,2649118,,100.0,False,False,,False,False,False,am87-02a,False,False,False,2,33,keep
+1580.611,Levilactobacillus brevis AM88-10A,Levilactobacillus brevis,AM88-10A,WGS,Good,fecal material [ENVO:00002003],,48,2659423,,100.0,False,False,,False,False,False,am88-10a,False,False,False,2,33,keep
+1580.567,Levilactobacillus brevis LBAE A15,Levilactobacillus brevis,LBAE A15,WGS,Good,wheat sourdough,,64,2341848,,100.0,False,False,,False,False,False,lbae a15,True,False,False,2,33,keep
+1580.1218,Levilactobacillus brevis NS2301G3,Levilactobacillus brevis,NS2301G3,Complete,Good,kimchi,,5,2527433,,100.0,False,False,,False,False,False,ns2301g3,False,False,False,2,33,keep
+1580.24,Lactobacillus brevis strain DM9218,Levilactobacillus brevis,DM9218,WGS,Good,sauerkraut,,10,2649463,,100.0,False,False,,False,False,False,dm9218,False,False,False,2,34,keep
+1580.63,Lactobacillus brevis strain Lb1595,Levilactobacillus brevis,Lb1595,WGS,Good,teat canal,,50,2439005,,100.0,False,False,,False,False,False,lb1595,False,False,False,2,34,keep
+1580.308,Lactobacillus brevis strain SA-C12,Levilactobacillus brevis,SA-C12,Complete,Good,,,3,2508862,0.7,99.29,False,False,,False,False,False,sa-c12,False,False,False,2,34,keep
+1580.369,Lactobacillus brevis strain BIO5542,Levilactobacillus brevis,BIO5542,WGS,Good,Baking leaven,,61,2347105,,99.29,False,False,,False,False,False,bio5542,False,False,False,2,35,keep
+1580.289,Lactobacillus brevis strain LMT1-73,Levilactobacillus brevis,LMT1-73,Complete,Good,kimchi,,3,2529623,,99.29,False,False,,False,False,False,lmt1-73,False,False,False,2,35,keep
+1580.279,Lactobacillus brevis strain TUCO-5E,Levilactobacillus brevis,TUCO-5E,WGS,Good,milk,,47,2461089,,100.0,False,False,,False,False,False,tuco-5e,False,False,False,2,35,keep
+1580.284,Lactobacillus brevis strain WIKIM12,Levilactobacillus brevis,WIKIM12,WGS,Good,kimchi,,109,2601591,,100.0,False,False,,False,False,False,wikim12,False,False,False,2,35,keep
+1580.605,Levilactobacillus brevis AF92-02GAA,Levilactobacillus brevis,AF92-02GAA,WGS,Good,fecal material [ENVO:00002003],,59,2654435,,100.0,False,False,,False,False,False,af92-02gaa,False,False,False,2,35,keep
+1580.609,Levilactobacillus brevis AM92-01-1A,Levilactobacillus brevis,AM92-01-1A,WGS,Good,fecal material [ENVO:00002003],,57,2652390,,100.0,False,False,,False,False,False,am92-01-1a,False,False,False,2,35,keep
+1580.61,Levilactobacillus brevis AM92-01b2A,Levilactobacillus brevis,AM92-01b2A,WGS,Good,fecal material [ENVO:00002003],,38,2639409,,100.0,False,False,,False,False,False,am92-01b2a,False,False,False,2,35,keep
+1580.608,Levilactobacillus brevis AM93-03b2A,Levilactobacillus brevis,AM93-03b2A,WGS,Good,fecal material [ENVO:00002003],,40,2638949,,100.0,False,False,,False,False,False,am93-03b2a,False,False,False,2,35,keep
+1580.607,Levilactobacillus brevis OF46-2pH5A,Levilactobacillus brevis,OF46-2pH5A,WGS,Good,fecal material [ENVO:00002003],,50,2657019,,100.0,False,False,,False,False,False,of46-2ph5a,False,False,False,2,35,keep
+1580.116,Lactobacillus brevis strain CRL 2013,Levilactobacillus brevis,CRL 2013,WGS,Good,Amaranth sourdough,,22,2644941,,100.0,False,False,,False,False,False,crl 2013,False,False,False,2,36,keep
+1580.305,Lactobacillus brevis strain DPC 6108,Levilactobacillus brevis,DPC 6108,WGS,Good,fecal sample,,11,2884677,,99.29,False,False,,False,False,False,dpc 6108,False,False,False,2,36,keep
+1580.312,Lactobacillus brevis strain UCCLB521,Levilactobacillus brevis,UCCLB521,Complete,Good,,,6,2416054,0.7,99.29,False,False,,False,False,False,ucclb521,False,False,False,2,36,keep
+1580.309,Lactobacillus brevis strain UCCLB556,Levilactobacillus brevis,UCCLB556,Complete,Good,,,8,2561981,0.94,99.29,False,False,,False,False,False,ucclb556,False,False,False,2,36,keep
+1580.612,Levilactobacillus brevis AM89-08b2TA,Levilactobacillus brevis,AM89-08b2TA,WGS,Good,fecal material [ENVO:00002003],,37,2635589,,100.0,False,False,,False,False,False,am89-08b2ta,False,False,False,2,36,keep
+1580.318,Lactobacillus brevis strain NBRC 3960,Levilactobacillus brevis,NBRC 3960,WGS,Good,,,125,2313728,0.24,99.29,False,False,,False,False,False,nbrc 3960,False,False,False,2,37,keep
+1580.571,Levilactobacillus brevis CIRM-BIA 875,Levilactobacillus brevis,CIRM-BIA 875,WGS,Good,cheese (Emmental type),,210,2606482,,100.0,False,False,,False,False,False,cirm-bia 875,True,False,False,2,37,keep
+1580.577,Levilactobacillus brevis CIRM-BIA 895,Levilactobacillus brevis,CIRM-BIA 895,WGS,Good,fermented beets,,121,2470075,,100.0,False,False,,False,False,False,cirm-bia 895,True,False,False,2,37,keep
+1580.576,Levilactobacillus brevis CIRM-BIA 907,Levilactobacillus brevis,CIRM-BIA 907,WGS,Good,pickle,,176,2462235,,100.0,False,False,,False,False,False,cirm-bia 907,True,False,False,2,37,keep
+1580.453,Levilactobacillus brevis strain ASK-1,Levilactobacillus brevis,ASK-1,WGS,Good,fermented pork sausage (Sai-krog-prieo),,73,2343673,,99.29,False,False,,False,False,False,ask-1,False,False,False,2,37,keep
+1580.319,Lactobacillus brevis strain NBRC 12005,Levilactobacillus brevis,NBRC 12005,WGS,Good,,,117,2374280,0.24,99.29,False,False,,False,False,False,nbrc 12005,False,False,False,2,38,keep
+1580.127,Lactobacillus brevis strain SRCM101106,Levilactobacillus brevis,SRCM101106,Complete,Good,food,,5,2554125,,100.0,False,False,,False,False,False,srcm101106,False,False,False,2,38,keep
+1580.126,Lactobacillus brevis strain SRCM101174,Levilactobacillus brevis,SRCM101174,Complete,Good,food,,6,2571249,,100.0,False,False,,False,False,False,srcm101174,False,False,False,2,38,keep
+1580.566,Levilactobacillus brevis CIRM-BIA 1442,Levilactobacillus brevis,CIRM-BIA 1442,WGS,Good,whey (from Comte),,119,2371476,,100.0,False,False,,False,False,False,cirm-bia 1442,True,False,False,2,38,keep
+1580.569,Levilactobacillus brevis CIRM-BIA 2232,Levilactobacillus brevis,CIRM-BIA 2232,WGS,Good,grape must,,76,2530181,,100.0,False,False,,False,False,False,cirm-bia 2232,True,False,False,2,38,keep
+1580.437,Levilactobacillus brevis strain Lbr-35,Levilactobacillus brevis,Lbr-35,WGS,Good,Commercial probiotic,,6,2338793,,99.29,False,False,,False,False,False,lbr-35,False,False,False,2,38,keep
+1580.306,Lactobacillus brevis strain SRCM 103306,Levilactobacillus brevis,SRCM 103306,WGS,Good,food,,6,2508273,,99.29,False,False,,False,False,False,srcm 103306,False,False,False,2,39,keep
+649758.4,Lactobacillus brevis ATCC 14869 = DSM 20054,Levilactobacillus brevis,DSM 20054,WGS,Good,feces,,11,2474438,,100.0,False,False,,False,False,False,atcc 14869 = dsm 20054,False,False,False,2,43,keep
+1580.668,Levilactobacillus brevis DRR247351_bin.2_MetaWRAP_v1.3_MAG,Levilactobacillus brevis,DRR247351_bin.2_MetaWRAP_v1.3_MAG,WGS,Good,oral metagenome,,7,2505661,,100.0,False,False,,False,False,False,drr247351_bin.2_metawrap_v1.3_mag,False,False,False,2,58,keep
+1580.776,Levilactobacillus brevis Levilactobacillus brevis CIRM-BIA2444,Levilactobacillus brevis,Levilactobacillus brevis CIRM-BIA2444,Complete,Good,,,6,2476420,0.3,100.0,False,False,,False,False,False,cirm-bia2444,False,False,False,2,62,keep
+1580.49,Lactobacillus brevis WK12,Levilactobacillus brevis,WK12,WGS,Good,,,110,2601946,,100.0,False,False,,False,False,False,wk12,False,False,False,3,25,keep
+387344.15,Lactobacillus brevis ATCC 367,Levilactobacillus brevis,ATCC 367,Complete,Good,,,3,2340228,,100.0,False,False,,False,False,False,atcc 367,False,False,False,3,29,keep
+1580.239,Lactobacillus brevis strain NBRC 3345,Levilactobacillus brevis,NBRC 3345,WGS,Good,,,47,2494980,,100.0,False,False,,False,False,False,nbrc 3345,False,False,False,3,37,keep
+1580.287,Lactobacillus brevis strain NCTC13386,Levilactobacillus brevis,NCTC13386,WGS,Good,,,5,2553592,,100.0,False,False,,False,False,False,nctc13386,False,False,False,3,37,keep
+1580.28,Lactobacillus brevis strain NCTC13768,Levilactobacillus brevis,NCTC13768,Complete,Good,,,1,2494328,,100.0,False,False,,False,False,False,nctc13768,False,False,False,3,37,keep
+1580.32,Lactobacillus brevis strain NBRC 13110,Levilactobacillus brevis,NBRC 13110,WGS,Good,,,112,2419096,,99.29,False,False,,False,False,False,nbrc 13110,False,False,False,3,38,keep
+1580.775,Levilactobacillus brevis Levilactobacillus brevis CIRM-BIA2515,Levilactobacillus brevis,Levilactobacillus brevis CIRM-BIA2515,Complete,Good,,,4,2491326,,100.0,False,False,,False,False,False,cirm-bia2515,False,False,False,3,62,keep
