@@ -1,0 +1,59 @@
+Assembly Accession,Genome Name,label_final,categoria_firma,score_bloque1,score_bloque2,score_total_modulos,mod_redox_detox,mod_regulacion,mod_alcohol_oxidoreduccion,prob_positiva_logit,score_prioridad,prioridad_cepa,nota_priorizacion
+GCA_000807975.1,Lactobacillus brevis BSO 464,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_000833405.1,Lactobacillus brevis TMW 1.313,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_002117225.1,Lactobacillus brevis strain TMW 1.2112,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_002117325.1,Lactobacillus brevis strain TMW 1.2113,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_002117345.1,Lactobacillus brevis strain TMW 1.2108,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_002117375.1,Lactobacillus brevis strain TMW 1.2111,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_006228205.1,Lactobacillus brevis strain UCCLBBS124,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_006228285.1,Lactobacillus brevis strain UCCLBBS449,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_006228265.1,Lactobacillus brevis strain UCCLB95,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_025447255.1,Levilactobacillus brevis SRCM210362,False,negativo_con_firma_completa,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_interesante_no_etiquetada_como_positiva
+GCF_001923045.1,Lactobacillus brevis strain BSO 310,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_900116995.1,Lactobacillus brevis strain HF01,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_900116975.1,Lactobacillus brevis strain A,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_900117015.1,Lactobacillus brevis strain JK09--,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_900117025.1,Lactobacillus brevis strain JK09,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_900117045.1,Lactobacillus brevis strain Q,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta,candidata_fuerte_consistente
+GCA_900116945.1,Lactobacillus brevis strain G430,True,positivo_nucleo_modular,5,2,7,5,1,3,0.8629639869257238,0.931481993462862,muy_alta,candidata_fuerte_consistente
+GCA_025194465.1,Levilactobacillus brevis CIRM-BIA 2227,False,negativo_con_firma_parcial,4,0,4,4,0,1,0.4240127276458142,0.4977206495371928,intermedia,candidata_intermedia_firma_parcial
+GCA_020741515.1,Levilactobacillus brevis strain 12991,False,negativo_con_firma_parcial,1,2,3,1,2,2,0.3602020666153122,0.39438674759337033,intermedia,candidata_intermedia_firma_parcial
+GCA_003184305.1,Lactobacillus brevis strain ZLB004,False,negativo_con_firma_parcial,1,2,3,1,1,2,0.2803221450063588,0.3544467867888937,intermedia,candidata_intermedia_firma_parcial
+GCA_002532155.1,Lactobacillus brevis strain SF15B,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_002017995.1,Lactobacillus brevis strain G101,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_006228305.1,Lactobacillus brevis strain UCCLB521,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_006538845.1,Lactobacillus brevis strain NBRC 3960,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_006538905.1,Lactobacillus brevis strain NBRC 12005,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_006228245.1,Lactobacillus brevis strain UCCLB556,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384445.1,Levilactobacillus brevis 7.2.40,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384415.1,Levilactobacillus brevis 3.8.25,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384405.1,Levilactobacillus brevis 7.2.41,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384395.1,Levilactobacillus brevis 7.2.12,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021383565.1,Levilactobacillus brevis M10,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_020509325.1,Levilactobacillus brevis strain LBX14,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_015238595.1,Lactobacillus brevis strain HQ1-1,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_009741845.1,Lactobacillus brevis strain LB_AVK,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_006228225.1,Lactobacillus brevis strain SA-C12,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_023744035.1,Levilactobacillus brevis DRD-195,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384495.1,Levilactobacillus brevis 7.2.13,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384505.1,Levilactobacillus brevis 7.2.49,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384565.1,Levilactobacillus brevis 7.8.34,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384595.1,Levilactobacillus brevis 30.8.38,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384515.1,Levilactobacillus brevis 7.8.43,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384555.1,Levilactobacillus brevis 7.8.33,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_025194545.1,Levilactobacillus brevis CIRM-BIA 2226,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_025194515.1,Levilactobacillus brevis CIRM-BIA 899,True,positivo_atipico,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,positiva_atipica_baja_firma
+GCA_025194385.1,Levilactobacillus brevis CIRM-BIA 2231,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_025194405.1,Levilactobacillus brevis CIRM-BIA 2230,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_025194305.1,Levilactobacillus brevis CIRM-BIA 2225,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_024330045.1,Levilactobacillus brevis 2-34,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_021384615.1,Levilactobacillus brevis 30.2.29,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_026410225.1,Levilactobacillus brevis LZB2,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_039839865.1,Levilactobacillus brevis MKMB04,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_026622905.1,Levilactobacillus brevis F4101,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_026626025.1,Levilactobacillus brevis SMB091,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_030378305.1,Levilactobacillus brevis SRCM217016,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_902386565.1,Lactobacillus brevis strain MGYG-HGUT-02380,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCA_925279105.1,Levilactobacillus brevis IM1470,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCF_001010995.1,Lactobacillus brevis strain 47f,False,negativo_sin_firma,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,baja_prioridad
+GCF_001636145.1,Lactobacillus brevis strain BM-LB13908,True,positivo_atipico,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja,positiva_atipica_baja_firma

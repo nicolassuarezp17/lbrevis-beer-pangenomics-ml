@@ -1,0 +1,20 @@
+Assembly Accession,Genome Name,label_final,categoria_firma,score_bloque1,score_bloque2,score_total_modulos,mod_redox_detox,mod_regulacion,mod_alcohol_oxidoreduccion,prob_positiva_logit,score_prioridad,prioridad_cepa
+GCA_000807975.1,Lactobacillus brevis BSO 464,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_000833405.1,Lactobacillus brevis TMW 1.313,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_002117225.1,Lactobacillus brevis strain TMW 1.2112,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_002117325.1,Lactobacillus brevis strain TMW 1.2113,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_002117345.1,Lactobacillus brevis strain TMW 1.2108,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_002117375.1,Lactobacillus brevis strain TMW 1.2111,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_006228205.1,Lactobacillus brevis strain UCCLBBS124,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_006228285.1,Lactobacillus brevis strain UCCLBBS449,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_006228265.1,Lactobacillus brevis strain UCCLB95,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_025447255.1,Levilactobacillus brevis SRCM210362,False,negativo_con_firma_completa,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCF_001923045.1,Lactobacillus brevis strain BSO 310,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_900116995.1,Lactobacillus brevis strain HF01,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_900116975.1,Lactobacillus brevis strain A,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_900117015.1,Lactobacillus brevis strain JK09--,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_900117025.1,Lactobacillus brevis strain JK09,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_900117045.1,Lactobacillus brevis strain Q,True,positivo_nucleo_modular,5,2,7,5,2,3,0.9010107741356687,0.9505053870678344,muy_alta
+GCA_900116945.1,Lactobacillus brevis strain G430,True,positivo_nucleo_modular,5,2,7,5,1,3,0.8629639869257238,0.931481993462862,muy_alta
+GCA_025194515.1,Levilactobacillus brevis CIRM-BIA 899,True,positivo_atipico,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja
+GCF_001636145.1,Lactobacillus brevis strain BM-LB13908,True,positivo_atipico,0,0,0,0,0,0,0.04355013708313321,0.021775068541566606,baja
